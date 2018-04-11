@@ -1,0 +1,14 @@
+{
+  "name": "koa2-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "repository": "https://github.com/HeeBooo/koa2-test.git",
+  "author": "hebo <1807941596@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "koa2": "^2.0.0-alpha.7"
+  }
+}
